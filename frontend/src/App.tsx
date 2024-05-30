@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div>
-        <APIProvider apiKey="AIzaSyBJiReovU2zT4QaeVqXGyMUv52W_ns7xdM">
+        <APIProvider apiKey="">
           <Map
             style={{ width: '100vw', height: '100vh' }}
             defaultCenter={{ lat: 22.54992, lng: 0 }}
